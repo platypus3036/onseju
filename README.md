@@ -63,7 +63,7 @@
 |---------|-------------|---------------|
 | User-Service | 사용자 계정 관리, 잔액 및 보유 주식 관리 | [View Code](https://github.com/platypus3036/user-service)|
 | Order-Service | 주식 주문 관리 | [View Code](https://github.com/platypus3036/order-service)|
-| Matching-Service | 체결 엔 | [View Code](https://github.com/platypus3036/matching-service)|
+| Matching-Service | 체결 엔진 | [View Code](https://github.com/platypus3036/matching-service)|
 
 
 
